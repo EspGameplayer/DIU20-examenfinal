@@ -71,10 +71,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
   Preguntas | Nuevas ideas
 
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+!! Propuesta de valor
+----
 
 >>> He podido observar que el alquiler de salas de reuniones y oficinas está sujeto a un formulario, mediante el cual se concierta una cita para acudir al edificio y, una vez allí, contratar el servicio. Mi propuesta de valor consiste en la inclusión de una aplicación móvil y web para llevar a cabo el proceso de concertar dicha visita y darse de alta y, una vez conocido al cliente y dado de alta, que éste pueda flexible y cómodamente contratar el alquiler de oficinas, reservar salas de reunión o ponerse en contacto de forma interactiva con el personal de Cubikate por alguna incidencia, con el fin de dinamizar el proceso y hacer más interactiva la experiencia del usuario.
 
@@ -114,7 +112,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> \-
 
 
 ![Método UX](img/mockup.png)  3.d Video
