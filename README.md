@@ -71,12 +71,14 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>>  - Imagen y branding atractivos. | - No se puede ver el precio del alquiler.
 >>>  - Modelo de negocio interesante. | - Hay escasa información y fotos acerca del entorno que se alquila (oficinas y salas de reunión).
 >>>  - Se exponen bien y de manera atractiva las fortalezas del negocio: servicios ofrecidos. | - La información acerca de la conexión Wifi ofrecida no es todo lo detallada que debería.
+>>> | ------------- | -------
 >>>  Preguntas | Nuevas ideas
 >>> | ------------- | -------
 >>>  - ¿Durante cuánto tiempo se alquilan estos espacios? ¿Por mes? ¿Por semana? | - Aplicación web para gestionar el alquiler de las oficinas y la reserva de las salas de reunión.
 >>>  - ¿Cuánto cuesta al mes? | - Inclusión de una galería de fotos o de un tour virtual.
+>>> | ------------- | -------
 >>>
->>>
+>>> Disculpe que la tabla esté rota.
 >>>
 >>> Propuesta de valor:
 >>> ----
