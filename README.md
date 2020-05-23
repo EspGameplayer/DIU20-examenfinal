@@ -8,10 +8,10 @@ Proyecto:
 
 Descripción: 
 
->>> -
+>>> \-
 
 Logotipo: 
->>> -
+>>> \-
 
 Miembros
  * :bust_in_silhouette:   José Antonio Domínguez Gómez     :octocat:
