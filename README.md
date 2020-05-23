@@ -43,7 +43,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> -
+>>> \-
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
@@ -54,7 +54,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> -
+>>> \-
 
 
 ## Paso 2. UX Design  
@@ -77,20 +77,20 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> -
+>>> \-
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
 
->>> -
+>>> \-
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> -
+>>> \-
 
 
 ## Paso 3. Mi equipo UX-Case Study 
@@ -98,13 +98,13 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
->>> -
+>>> \-
 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
->>> -
+>>> \-
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
@@ -116,7 +116,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> -
+>>> \-
 
 
 ## Paso 4. Evaluación 
@@ -124,19 +124,19 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
->>> -
+>>> \-
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> -
+>>> \-
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> -
+>>> \-
 
 
 ## Paso 5. Evaluación de Accesibilidad  
@@ -144,10 +144,10 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
->>> - 
+>>> \- 
 
 
 ## Conclusión final / Valoración de las prácticas
 
->>> -
+>>> \-
 
