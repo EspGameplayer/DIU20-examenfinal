@@ -1,5 +1,5 @@
 # DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+Examen final Diseño Interfaces de Usuario 2019-20 (Coworking) 
 
 Examen final.  Curso: 2019/20. 
 
@@ -8,20 +8,15 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> -
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> -
 
 Miembros
  * :bust_in_silhouette:   José Antonio Domínguez Gómez     :octocat:
 
 ----- 
-
->>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) Elimine este texto desde la práctica 1
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 >>> He subido el repositorio y no he hecho fork porque en las prácticas ya hice fork y no puedo volver a hacer otro del mismo repositorio.
 
