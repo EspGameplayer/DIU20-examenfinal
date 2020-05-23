@@ -66,14 +66,21 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>>  Interesante | Críticas     
+>>>  Interesante | Críticas
 >>> | ------------- | -------
+>>>  - Imagen y branding atractivos. | - No se puede ver el precio del alquiler.
+>>>  - Modelo de negocio interesante. | - Hay escasa información y fotos acerca del entorno que se alquila (oficinas y salas de reunión).
+>>>  - Se exponen bien y de manera atractiva las fortalezas del negocio: servicios ofrecidos. | - La información acerca de la conexión Wifi ofrecida no es todo lo detallada que debería.
 >>>  Preguntas | Nuevas ideas
+>>> | ------------- | -------
+>>>  - ¿Durante cuánto tiempo se alquilan estos espacios? ¿Por mes? ¿Por semana? | - Aplicación web para gestionar el alquiler de las oficinas y la reserva de las salas de reunión.
+>>>  - ¿Cuánto cuesta al mes? | - Inclusión de una galería de fotos o de un tour virtual.
+>>>
 >>>
 >>>
 >>> Propuesta de valor:
->>> -----
->>> He podido observar que el alquiler de salas de reuniones y oficinas está sujeto a un formulario, mediante el cual se concierta una cita para acudir al edificio y, una vez allí, contratar el servicio. Mi propuesta de valor consiste en la inclusión de una aplicación móvil y web para llevar a cabo el proceso de concertar dicha visita y darse de alta y, una vez conocido al cliente y dado de alta, que éste pueda flexible y cómodamente contratar el alquiler de oficinas, reservar salas de reunión o ponerse en contacto de forma interactiva con el personal de Cubikate por alguna incidencia, con el fin de dinamizar el proceso y hacer más interactiva la experiencia del usuario.
+>>> ----
+>>> He podido observar que el alquiler de salas de reuniones y oficinas está sujeto a un formulario, mediante el cual se concierta una cita para acudir al edificio y, una vez allí, contratar el servicio. Mi propuesta de valor consiste en la inclusión de una aplicación web compatible con el móvil mediante un diseño web responsive para llevar a cabo el proceso de concertar dicha visita y darse de alta y, una vez conocido al cliente y dado de alta, que éste pueda flexible y cómodamente contratar el alquiler de oficinas, reservar salas de reunión o ponerse en contacto de forma interactiva con el personal de Cubikate por alguna incidencia, con el fin de dinamizar el proceso y hacer más interactiva la experiencia del usuario. Adicionalmente, debería poder tener mayor información del espacio que se ofrece y de los precios interactivamente a través de la aplicación, la cual integraría a la página web.
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
