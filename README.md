@@ -43,7 +43,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> \-
+>>> El perfil de esta persona es un empresario que necesita un espacio para llevar a cabo su actividad laboral para así ahorrar en costes, ganar en tranquilidad y obtener unos servicios de calidad (principalmente necesita el Wifi). He escogido a esta persona porque, de entre las que he considerado, he pensado que es la mejor elección para entender la problemática que pudiera haber al intentar utilizar el servicio.
+>>>
+>>> ![Método UX](img/roberto-martinez-P.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
