@@ -51,7 +51,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Se ha simulado el proceso de uso de la página web, https://cubikate.es/
+>>> Se ha simulado el proceso de uso de la página web, https://cubikate.es/, para identificar problemas relacionados con la experiencia de usuario, pudiéndose, de esta manera, establecer puntos de mejoras y elaborar una propuesta de valor que resulte beneficiosa para la experiencia de usuario.
+>>>
+>>> ![Método UX](img/roberto-martinez-J.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
