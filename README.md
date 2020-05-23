@@ -1,10 +1,10 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Examen final.  Curso: 2019/20. 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Cubitake
 
 Descripción: 
 
@@ -58,7 +58,6 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 
 ## Paso 2. UX Design  
-
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
@@ -142,7 +141,6 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ## Paso 5. Evaluación de Accesibilidad  
 
-
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
@@ -152,16 +150,4 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ## Conclusión final / Valoración de las prácticas
 
 >>> -
-
-
-
-
-
-
-
-
-
-
-
-
 
