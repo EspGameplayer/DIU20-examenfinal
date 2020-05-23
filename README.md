@@ -49,7 +49,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> - 
+>>> \- 
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
